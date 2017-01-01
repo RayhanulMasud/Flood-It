@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="app_name">GridViewPractice</string>
+    <string name="action_settings">Settings</string>
+<string name="board_prompt">Choose a board</string>
+
+<string-array name="boardsize_arrays">
+    <item>4*4</item>
+    <item>6*6</item>
+    <item>10*10</item>
+    <item>14*14</item>
+</string-array>
+
+</resources>
